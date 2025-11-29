@@ -1,0 +1,8 @@
+[2025-11-29 10:15:23] INFO User123 connected from 192.168.1.10
+[2025-11-29 10:16:10] WARNING High latency detected on interface eth0
+[2025-11-29 10:17:05] ERROR Failed to reach server: api.nokia.com
+[2025-11-29 10:18:42] INFO User456 disconnected
+[2025-11-29 10:20:11] ERROR Packet loss threshold exceeded
+[2025-11-29 10:21:37] INFO User789 connected from 10.0.0.5
+[2025-11-29 10:22:01] WARNING Unexpected traffic spike detected
+ 
